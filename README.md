@@ -5,7 +5,7 @@ Welcome to the **Tour Planner**! This simple and responsive application, built w
 ## 🎯 Live Demo
 
 Check out the live demo of the app hosted on Vercel:  
-[Counter App Live Demo](https://tour-planner-seven.vercel.app/)
+[Tour Planner Live Demo](https://tour-planner-seven.vercel.app/)
 
 ## 📦 Direct Download
 
