@@ -5,12 +5,12 @@ Welcome to the **Tour Planner**! This simple and responsive application, built w
 ## 🎯 Live Demo
 
 Check out the live demo of the app hosted on Vercel:  
-[Counter App Live Demo](https://counter-app-2024-using-react-and-tailwind-css.vercel.app/)
+[Counter App Live Demo](https://tour-planner-seven.vercel.app/)
 
 ## 📦 Direct Download
 
 Download the latest version of the project as a ZIP file:  
-[Download ZIP](https://github.com/yashheda5/Counter-App-2024-using-React-and-tailwind-css/archive/refs/heads/main.zip)
+[Download ZIP](https://github.com/yashheda5/Tour-Planner/archive/refs/heads/main.zip)
 
 ## 🚀 Getting Started
 
@@ -19,12 +19,12 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository**  
    Clone the repository to your local machine:
    ```sh
-   git clone https://github.com/your-username/Counter-App-2024-using-React-and-tailwind-css.git
+   git clone https://github.com/yashheda5/Tour-Planner.git
     ```
 
 2. **Navigate to the project directory:**
     ```sh
-    cd Counter-App-2024-using-React-and-tailwind-css
+    cd Tour-Planner
     ```
 
 3. **Install the required packages:**
